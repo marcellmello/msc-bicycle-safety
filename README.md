@@ -1,4 +1,4 @@
-# Bicycle Safety Analysis
+# MSc. Bicycle Safety Analysis
 ## Sensor Device on Lateral Passing Distance: A Case Study With Unsupervised Learning Model to Estimate Hazardous Areas for Active Mobility
 
 **Researcher** Luiz Marcel Silva de Mello
